@@ -1,10 +1,10 @@
 # Todolist application
 
-Name: server app todolist-android\n
-Auth: Hoang Quoc Khanh\n
+Name server app todolist-android
+Auth: Hoang Quoc Khanh
 
-# Require
-node: > v10\n
+Require
+node: > v10
 npm: > v6
 
 # Run
